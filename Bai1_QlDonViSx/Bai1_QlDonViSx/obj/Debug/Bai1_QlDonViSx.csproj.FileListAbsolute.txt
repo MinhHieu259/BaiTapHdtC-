@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\bin\Debug\Bai1_QlDonViSx.exe.config
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\bin\Debug\Bai1_QlDonViSx.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\bin\Debug\Bai1_QlDonViSx.pdb
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\obj\Debug\Bai1_QlDonViSx.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\obj\Debug\Bai1_QlDonViSx.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\obj\Debug\Bai1_QlDonViSx.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\obj\Debug\Bai1_QlDonViSx.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai1_QlDonViSx\Bai1_QlDonViSx\obj\Debug\Bai1_QlDonViSx.pdb
