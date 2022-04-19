@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\BaiTapDaHinh.exe.config
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\BaiTapDaHinh.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\bin\Debug\BaiTapDaHinh.pdb
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\BaiTapDaHinh.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\BaiTapDaHinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\BaiTapDaHinh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\BaiTapDaHinh.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDaHinh\BaiTapDaHinh\obj\Debug\BaiTapDaHinh.pdb
