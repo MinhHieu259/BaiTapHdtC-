@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\bin\Debug\DongVat.exe.config
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\bin\Debug\DongVat.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\bin\Debug\DongVat.pdb
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\obj\Debug\DongVat.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\obj\Debug\DongVat.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\obj\Debug\DongVat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\obj\Debug\DongVat.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\DongVat\DongVat\obj\Debug\DongVat.pdb

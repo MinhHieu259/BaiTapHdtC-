@@ -13,12 +13,8 @@ namespace BaiTapDaHinh
         public int SoCanh { get => soCanh; set => soCanh = value; }
         public int[] A { get => a; set => a = value; }
 
-        public DaGiac(int soCanh, int a)
-        {
-            this.soCanh = 0;
-            this.A = null;
-        }
-        protected void nhap()
+       
+        public void nhap()
         {
             do
             {
@@ -58,11 +54,7 @@ namespace BaiTapDaHinh
 
     class TamGiac : DaGiac
     {
-        public TamGiac(int soCanh, int a) : base(soCanh, a)
-        {
-            this.soCanh = 0;
-            this.A = null;
-        }
+        
 
         public void nhap()
         {
@@ -87,9 +79,8 @@ namespace BaiTapDaHinh
     {
         static void Main(string[] args)
         {
-            //DaGiac tg = new TamGiac();
-
-            Console.ReadKey();
+            TamGiac tamgiac = new TamGiac();
+            tamgiac.nhap();
         }
 
     }
