@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe.config
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\PhuongTrinhBac2.pdb
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\BaiTapDiemDanh264\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\PhuongTrinhBac2.pdb

@@ -8,22 +8,27 @@ namespace DongVat
 {
     internal class Program
     {
-        class Animal
+       abstract class Animal
         {
-            public  void eat()
-            {
-                Console.WriteLine("Dong vat an");
-            }
+            public abstract void eat();
 
-            public  void makeSound()
-            {
-                Console.WriteLine("Dong vat keu");
-            }
+            public abstract void makeSound();
+            
         }
 
         class Cat : Animal
         {
-            public  void run()
+            public override void eat()
+            {
+                throw new NotImplementedException();
+            }
+
+            public override void makeSound()
+            {
+                throw new NotImplementedException();
+            }
+
+            public void run()
             {
                 Console.WriteLine("Meo chay");
             }
@@ -31,11 +36,22 @@ namespace DongVat
 
         class Bird : Animal
         {
-            public  void fly()
+            public override void eat()
+            {
+                throw new NotImplementedException();
+            }
+
+            public void fly()
             {
                 Console.WriteLine("Chim Bay");
             }
+
+            public override void makeSound()
+            {
+                throw new NotImplementedException();
+            }
         }
+
         static void Main(string[] args)
         {
             Cat cat = new Cat();
