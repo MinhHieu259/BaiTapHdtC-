@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\bin\Debug\Bai4_KhuPho.exe.config
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\bin\Debug\Bai4_KhuPho.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\bin\Debug\Bai4_KhuPho.pdb
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\obj\Debug\Bai4_KhuPho.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\obj\Debug\Bai4_KhuPho.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\obj\Debug\Bai4_KhuPho.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\obj\Debug\Bai4_KhuPho.exe
+C:\Users\ASUS\Desktop\BaiTapHdtC-\Bai4_KhuPho\Bai4_KhuPho\obj\Debug\Bai4_KhuPho.pdb
